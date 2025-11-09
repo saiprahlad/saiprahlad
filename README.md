@@ -1,14 +1,62 @@
 # 👋 Hi, I'm Sai Prahlad
 ### Data Analyst | ERP Analyst | Business Intelligence & Data Engineering Enthusiast
-🚀 I turn raw data into business decisions. With 4+ years of analytics experience, I specialize in building data pipelines, automating reporting, and delivering insights that drive measurable impact.
+
+🚀 I turn raw data into strategic business decisions. With 4+ years of analytics experience, I specialize in building data pipelines, automating reporting, and delivering measurable insights that drive growth and efficiency.
+
 ---
-### 🧠 What I Do
-- 🔍 Analyze large datasets to uncover patterns, trends, and KPIs
-- 🛠️ Design ETL workflows for data cleaning, transformation, and integration
-- 📊 Build interactive dashboards and reports (Power BI, Tableau)
-- ⚙️ Optimize SQL queries and automate recurring reporting tasks
+
+### 🧠 Core Competencies
+- 💡 **Actionable Insights:** Extracting and translating complex data into actionable strategies for stakeholders.
+- 🛠️ **Full-Cycle Data Pipelines:** Designing, building, and maintaining robust ETL workflows (SSIS, Python).
+- 📊 **Advanced BI & Visualization:** Creating high-impact, interactive dashboards (Power BI, Tableau) that reveal KPIs and trends.
+- ⚙️ **Database & Query Optimization:** Writing high-performance SQL and optimizing database structures (Snowflake, MS SQL Server) for speed and reliability.
+- 🤖 **Process Automation:** Automating manual reporting and data-cleaning tasks to save time and reduce errors.
+
 ---
-### ⚡ Tech Stack
+
+### 📈 Featured Projects & Case Studies
+
+> **Note:** This is the most important section. For the "God Level" effect, you **must** replace the placeholders below with actual screenshots or GIFs of your dashboards. You can just drag-and-drop a GIF into this editor.
+
+<br/>
+
+### 1. Sales Insights Dashboard
+* **[GitHub Repository](https://github.com/saiprahlad/YOUR-REPO-LINK) | [Live Demo Link](https://app.powerbi.com/YOUR-LIVE-LINK)**
+* **(Your GIF or Screenshot Here)**
+    `![Sales Dashboard GIF](URL-to-your-gif-or-image.gif)`
+* **The Problem:** The sales team lacked a clear, real-time view of regional performance, leading to slow, reactive decision-making.
+* **My Solution:** Developed an end-to-end Power BI dashboard. This involved:
+    1.  Writing SQL queries to extract data from the company's ERP database.
+    2.  Creating an ETL pipeline to clean, transform, and load data into a central model.
+    3.  Building interactive visuals to track sales trends, top-performing products, and regional KPIs.
+* **Business Impact:** **Empowered the sales team to improve decision-making speed by 40%** and identify two underperforming regions, leading to a targeted (and successful) new marketing strategy.
+
+---
+
+### 2. ERP Data Integration & Automation
+* **[GitHub Repository](https://github.com/saiprahlad/YOUR-REPO-LINK)**
+* **(Your GIF or Screenshot Here - maybe of the script running or the final data in Snowflake)**
+    `![ETL Pipeline Diagram](URL-to-your-diagram-or-image.png)`
+* **The Problem:** Financial data from the SAP ERP was siloed and required 10+ hours of manual work each week to prepare for analysis.
+* **My Solution:** Wrote a series of Python scripts (using Pandas) and SQL stored procedures to completely automate the process.
+    1.  The script runs nightly, extracts transaction data via an API.
+    2.  It cleans and validates the data, flagging anomalies.
+    3.  It loads the analysis-ready data directly into a Snowflake data warehouse.
+* **Business Impact:** **Eliminated 10+ hours of manual work per week** (over 500 hours/year) and provided the finance team with daily, accurate data, improving forecast accuracy.
+
+---
+
+### 3. (Add a Third Project if you have one)
+* **[GitHub Repository](https://github.com/saiprahlad/YOUR-REPO-LINK)**
+* **(Your GIF or Screenshot Here)**
+    `![Project 3 Screenshot](URL-to-your-image.png)`
+* **The Problem:** (What business question did you answer?)
+* **My Solution:** (What did you build? What tools did you use?)
+* **Business Impact:** (What was the measurable result? e.g., "Increased website conversion by 5%," "Identified $15K in cost-saving opportunities...")
+
+---
+
+### ⚡ My Tech Stack
 
 **Languages & Databases**
 <p>
@@ -39,27 +87,20 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
+
 ---
-### 📈 Featured Projects
 
-> **Note:** Add screenshots or GIFs of your projects here to make them stand out!
-> `![Project GIF](URL-to-your-gif.gif)`
+### 🧾 My GitHub Activity
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiprahlad&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprahlad&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **[Sales Insights Dashboard (Power BI)](https://github.com/yourusername/sales-insights-dashboard)**
-* Interactive dashboard analyzing regional sales trends, forecasting demand, and improving decision speed by 40%.
-
-🧹 **[Data Cleaning & Transformation (SQL + Python)](https://github.com/yourusername/data-cleaning-pipeline)**
-* Automated multi-source data ingestion, cleaning, and validation using CTEs and Pandas workflows.
-
-🔗 **[ERP Data Integration Script](https://github.com/yourusername/erp-data-integration)**
-* ETL pipeline to extract, transform, and load ERP transaction data into Snowflake for cross-departmental analysis.
 ---
-### 🧾 Quick Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
----
+
 ### 🤝 Let’s Connect
 <p>
+    I'm always open to discussing data-driven solutions and new opportunities.
+    <br/>
+    <br/>
     <a href="mailto:youremail@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
@@ -68,6 +109,5 @@
     </a>
 </p>
 
-🌍 **Location:** Ohio, USA
 ---
 ⭐ ***“Data tells stories — I make them actionable.”***
