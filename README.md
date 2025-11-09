@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sai Prahlad
-### Data Analyst | ERP Analyst | Business Intelligence & Data Engineering Enthusiast
+### Data Analyst | ERP Analyst 
 🚀 I turn raw data into strategic business decisions. With of analytics experience, I specialize in building data pipelines, automating reporting, and delivering measurable insights that drive growth and efficiency.
 
 ---
