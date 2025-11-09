@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Sai Prahlad
 ### Data Analyst | ERP Analyst | Business Intelligence & Data Engineering Enthusiast
-
 🚀 I turn raw data into strategic business decisions. With 4+ years of analytics experience, I specialize in building data pipelines, automating reporting, and delivering measurable insights that drive growth and efficiency.
 
 ---
@@ -14,16 +13,49 @@
 
 ---
 
+### ⚡ My Tech Stack
+
+**Languages & Databases**
+<p>
+    <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=sql&logoColor=white&longCache=true&labelColor=555555&color=red" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&longCache=true&labelColor=555555&color=blue" alt="Python"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&longCache=true&labelColor=555555&color=green" alt="R"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&longCache=true&labelColor=555555&color=orange" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&longCache=true&labelColor=555555&color=purple" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&longCache=true&labelColor=555555&color=brown" alt="MS SQL Server"/>
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white&longCache=true&labelColor=555555&color=teal" alt="Snowflake"/>
+</p>
+
+**BI, ETL & Data Tools**
+<p>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&longCache=true&labelColor=555555&color=yellow" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white&longCache=true&labelColor=555555&color=darkorange" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white&longCache=true&labelColor=555555&color=darkgreen" alt="Excel"/>
+    <img src="https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&longCache=true&labelColor=555555&color=maroon" alt="SSIS"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&longCache=true&labelColor=555555&color=darkblue" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&longCache=true&labelColor=555555&color=darkcyan" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white&longCache=true&labelColor=555555&color=indigo" alt="Alteryx"/>
+    <img src="https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white&longCache=true&labelColor=555555&color=gray" alt="SAP ERP"/>
+</p>
+
+**Cloud & Platforms**
+<p>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white&longCache=true&labelColor=555555&color=black" alt="AWS"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&longCache=true&labelColor=555555&color=black" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&longCache=true&labelColor=555555&color=darkred" alt="Jupyter"/>
+</p>
+
+---
+
 ### 📈 Featured Projects & Case Studies
 
-> **Note:** This is the most important section. For the "God Level" effect, you **must** replace the placeholders below with actual screenshots or GIFs of your dashboards. You can just drag-and-drop a GIF into this editor.
+> **Important:** Replace the `![Project Name](URL-to-your-gif-or-image.gif)` placeholders with actual screenshots or animated GIFs of your dashboards/work. This is critical for visual impact!
 
 <br/>
 
-### 1. Sales Insights Dashboard
+**1. Sales Insights Dashboard**
 * **[GitHub Repository](https://github.com/saiprahlad/YOUR-REPO-LINK) | [Live Demo Link](https://app.powerbi.com/YOUR-LIVE-LINK)**
-* **(Your GIF or Screenshot Here)**
-    `![Sales Dashboard GIF](URL-to-your-gif-or-image.gif)`
+* `![Sales Dashboard GIF](URL-to-your-sales-dashboard-gif-or-image.gif)`
 * **The Problem:** The sales team lacked a clear, real-time view of regional performance, leading to slow, reactive decision-making.
 * **My Solution:** Developed an end-to-end Power BI dashboard. This involved:
     1.  Writing SQL queries to extract data from the company's ERP database.
@@ -33,10 +65,9 @@
 
 ---
 
-### 2. ERP Data Integration & Automation
+**2. ERP Data Integration & Automation**
 * **[GitHub Repository](https://github.com/saiprahlad/YOUR-REPO-LINK)**
-* **(Your GIF or Screenshot Here - maybe of the script running or the final data in Snowflake)**
-    `![ETL Pipeline Diagram](URL-to-your-diagram-or-image.png)`
+* `![ETL Pipeline Diagram](URL-to-your-etl-pipeline-diagram-or-image.png)`
 * **The Problem:** Financial data from the SAP ERP was siloed and required 10+ hours of manual work each week to prepare for analysis.
 * **My Solution:** Wrote a series of Python scripts (using Pandas) and SQL stored procedures to completely automate the process.
     1.  The script runs nightly, extracts transaction data via an API.
@@ -46,53 +77,20 @@
 
 ---
 
-### 3. (Add a Third Project if you have one)
+**3. (Optional: Add a Third Impactful Project Here)**
 * **[GitHub Repository](https://github.com/saiprahlad/YOUR-REPO-LINK)**
-* **(Your GIF or Screenshot Here)**
-    `![Project 3 Screenshot](URL-to-your-image.png)`
-* **The Problem:** (What business question did you answer?)
-* **My Solution:** (What did you build? What tools did you use?)
-* **Business Impact:** (What was the measurable result? e.g., "Increased website conversion by 5%," "Identified $15K in cost-saving opportunities...")
-
----
-
-### ⚡ My Tech Stack
-
-**Languages & Databases**
-<p>
-    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-</p>
-
-**BI, ETL & Data Tools**
-<p>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-    <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSIS"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx"/>
-    <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ERP"/>
-</p>
-
-**Cloud & Platforms**
-<p>
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+* `![Project 3 Screenshot](URL-to-your-project-3-image.png)`
+* **The Problem:** (Clearly state the business question or challenge you addressed.)
+* **My Solution:** (Describe what you built, including the tools and methodologies used.)
+* **Business Impact:** (Quantify the results! E.g., "Increased website conversion by 5%," "Identified $15K in cost-saving opportunities," "Improved data accuracy by 15%.")
 
 ---
 
 ### 🧾 My GitHub Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiprahlad&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprahlad&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=saiprahlad&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sai Prahlad's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprahlad&layout=compact&theme=radical&hide_border=true" alt="Sai Prahlad's Top Languages"/>
+</p>
 
 ---
 
@@ -100,13 +98,14 @@
 <p>
     I'm always open to discussing data-driven solutions and new opportunities.
     <br/>
-    <br/>
     <a href="mailto:youremail@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://linkedin.com/in/yourprofile">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <br/>
+    **Location:** Ohio, USA
 </p>
 
 ---
